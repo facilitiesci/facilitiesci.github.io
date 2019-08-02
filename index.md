@@ -3,7 +3,29 @@ layout: default
 title: {{ site.name }}
 ---
 
-<img src="assets/images/ci-9.jpg" />
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img src="assets/images/ci-9.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="assets/images/lf-2.png" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+</div>
 
 # Workshop Overview
 
@@ -25,8 +47,6 @@ and discuss common challenges. This workshop aims to continue the discussion sta
 in 2017 and to provide a forum for the cyberinfrastructure experts to share ideas 
 and experiences and discuss the future of CI and the CI workforce.
 
-<img src="assets/images/lf-2.png" />
-
 ## Goals
 
 - Identifying common cyberinfrastructure challenges among LFs
@@ -46,3 +66,29 @@ and experiences and discuss the future of CI and the CI workforce.
     </div>
 </div>
 
+<script type="text/javascript">
+var slideIndex = 0;
+showSlides();
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 5000);
+}
+</script>
