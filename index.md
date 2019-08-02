@@ -25,6 +25,8 @@ and discuss common challenges. This workshop aims to continue the discussion sta
 in 2017 and to provide a forum for the cyberinfrastructure experts to share ideas 
 and experiences and discuss the future of CI and the CI workforce.
 
+<img src="assets/images/lf-2.png" />
+
 ## Goals
 
 - Identifying common cyberinfrastructure challenges among LFs
