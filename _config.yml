@@ -1,0 +1,14 @@
+# Setup
+title:        NSF Large Facilities Cyberinfrastructure Workshop
+tagline:      Alexandria, VA, USA, September 16-17, 2019
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Rafael Ferreira da Silva
+  url:        http://rafaelsilva.com
+
+#Others
+markdown: kramdown
