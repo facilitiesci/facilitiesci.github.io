@@ -40,8 +40,8 @@ visualization, and dissemination. The Large Facilities (LFs), the biggest scient
 investments made by the National Science Foundation, are relying on existing CI and 
 building new CI capabilities and solutions to support their scientific communities.
 
-The NSF Large Facilities Cyberinfrastructure Workshop 
-([LFCI Workshop](http://facilitiesci.org/2017.html)) found that:
+The 2017 NSF Large Facilities Cyberinfrastructure Workshop 
+([LFCI Workshop](/2017.html)) found that:
 > There is also a lack of a facilities' CI community that can collectively address 
 > CI sustainability and help provide continuity between existing and future facilities.
 
