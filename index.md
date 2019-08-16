@@ -59,7 +59,7 @@ and experiences and discuss the future of CI and the CI workforce.
 - Sharing experiences in CI project management
 - Discussing approaches to building a community of CI professionals among others
 
-<div style="width: 100%; text-align: center; padding: 2em">
+<!--div style="width: 100%; text-align: center; padding: 2em">
     <div class="ui left labeled button" tabindex="0">
       <a href="assets/reports/facilitiesci-workshop-report-11-17.pdf" class="ui blue label" target="_blank">
         Report from the 2017 NSF Large Facilities Cyberinfrastructure Workshop
@@ -68,7 +68,7 @@ and experiences and discuss the future of CI and the CI workforce.
         <i class="fas fa-download"></i>
       </div>
     </div>
-</div>
+</div-->
 
 <script type="text/javascript">
 var slideIndex = 0;
