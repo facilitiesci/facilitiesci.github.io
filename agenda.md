@@ -27,7 +27,7 @@ Alexandria, VA, USA, September 16-17, 2019
 | 15:30 – 16:00	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 16:00 – 17:30	| **Parallel Breakouts:**<br />- What are the opportunities for collaboration in CI?<br />-What are the CI challenges that need to be addressed in the next 5 years to support LFs science missions?<br />-What are the non-technical issues that influence CI development and how they can be collaboratively addressed?
 | 17:30 – 18:00	| **Breakout Summaries**<br />Top 3-5 ideas from each group
-| 18:30 – 20:30	| <span style="color: #666"><i class="fas fa-wine-glass-alt"></i>&nbsp;&nbsp;Reception</span>
+| 18:30 – 20:30	| <span style="color: #666"><i class="fas fa-wine-glass-alt"></i>&nbsp;&nbsp;Reception with cash bar</span>
 
 ### Day 2 – Tuesday, September 17, 2019
 
