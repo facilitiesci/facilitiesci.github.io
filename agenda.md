@@ -10,10 +10,12 @@ td:nth-of-type(1) {
 
 # Preliminary Agenda
 
-Alexandria, VA, USA, September 16-17, 2019<br />
-**The Alexandrian** – 480 King St, Alexandria, VA 22314
+Alexandria, VA, USA, September 16-17, 2019
 
-**Rooms**:
+### Location
+**[The Alexandrian](https://thealexandrian.com)** <br />
+480 King St, Alexandria, VA 22314
+
 
 ### Day 1 – Monday, September 16, 2019
 
