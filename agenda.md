@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:20%;
+}
+</style>
+
 # Preliminary Agenda
 
 Alexandria, VA, USA, September 16-17, 2019 
