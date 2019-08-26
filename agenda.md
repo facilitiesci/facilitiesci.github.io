@@ -7,7 +7,7 @@ table:nth-of-type(1) {
     display:table;
     width:100%;
 }
-table:nth-of-type(1) th:nth-of-type(2) {
+table:nth-of-type(1) th:nth-of-type(1) {
     width:20%;
 }
 </style>
