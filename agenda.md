@@ -27,11 +27,12 @@ Alexandria, VA, USA, September 16-17, 2019
 
 ### Day 2 – Tuesday, September 17, 2019
 
-| 08:30 – 10:00 | **Panel**
-| 10:00 – 10:30 | **Setting the Stage**
-| 10:30 – 11:00 | <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
-| 11:00 – 12:30	| **Breakouts**
-| 12:30 – 13:30 | <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
-| 13:30 – 14:00 | **Breakout Summaries**
-| 14:00 – 15:30 | **Panel: Looking into the future**
-| 15:30 – 15:45 | **Wrapup**
+| 07:30 – 08:20	| <span style="color: #666">Breakfast</span>
+| 08:20 – 08:30 | **Setting the stage for Day 2**<br />Ewa Deelman
+| 08:30 – 10:00 | **Panel on shared CI services opportunities and Challenges**<br />Adam Bolton
+| 10:00 – 10:30 | <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
+| 10:30 – 12:00	| **Panel on workforce development and retention**<br />Tom Cheatham
+| 12:00 – 13:00 | <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
+| 13:00 – 14:30 | **Parallel Breakouts:**<br /><br />- Building community resource for knowledge sharing and building a community of CI workforce<br />- Enhancing the CI workforce: challenges and solutions<br />- Follow-on to the April discussion about future CI for Science, what is the science people want to do and what CI is needed to enable it? Where does the LF end and other user services begin?  CI for LFs vs. CI for end-users
+| 14:30 – 15:00	| **Breakout Summaries**
+| 15:00 – 15:15	| **Wrap-up**
