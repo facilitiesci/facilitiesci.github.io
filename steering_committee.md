@@ -8,6 +8,27 @@ title: {{ site.name }}
 
 <div class="ui divided list" style="margin-top: 2em">
   <div class="item">
+    <img class="ui avatar image" src="assets/images/committee/bockelman.jpg">
+    <div class="content">
+      <a class="header">Brian Bockelman</a>
+      <div class="description">Morgridge Institute</div>
+    </div>
+  </div>
+  <div class="item">
+      <img class="ui avatar image" src="assets/images/committee/bolton.jpg">
+      <div class="content">
+        <a class="header">Adam Bolton</a>
+        <div class="description">National Optical Astronomy Observatory</div>
+      </div>
+  </div>
+  <div class="item">
+    <img class="ui avatar image" src="assets/images/committee/cheatham.jpg">
+    <div class="content">
+      <a class="header">Tom Cheatham</a>
+      <div class="description">University of Utah</div>
+    </div>
+  </div>
+  <div class="item">
     <img class="ui avatar image" src="assets/images/committee/deelman.jpg">
     <div class="content">
       <a class="header">Ewa Deelman</a>
@@ -29,11 +50,11 @@ title: {{ site.name }}
     </div>
   </div>
   <div class="item">
-      <img class="ui avatar image" src="assets/images/committee/bolton.jpg">
-      <div class="content">
-        <a class="header">Adam Bolton</a>
-        <div class="description">National Optical Astronomy Observatory</div>
-      </div>
+    <img class="ui avatar image" src="assets/images/committee/kogan.jpg">
+    <div class="content">
+      <a class="header">Marina Kogan</a>
+      <div class="description">University of Utah</div>
+    </div>
   </div>
   <div class="item">
     <img class="ui avatar image" src="assets/images/committee/stanzione.jpg">
@@ -47,27 +68,6 @@ title: {{ site.name }}
     <div class="content">
       <a class="header">Daryl Swensen</a>
       <div class="description">Regional Class Research Vessel</div>
-    </div>
-  </div>
-  <div class="item">
-    <img class="ui avatar image" src="assets/images/committee/bockelman.jpg">
-    <div class="content">
-      <a class="header">Brian Bockelman</a>
-      <div class="description">Morgridge Institute</div>
-    </div>
-  </div>
-  <div class="item">
-    <img class="ui avatar image" src="assets/images/committee/cheatham.jpg">
-    <div class="content">
-      <a class="header">Tom Cheatham</a>
-      <div class="description">University of Utah</div>
-    </div>
-  </div>
-  <div class="item">
-    <img class="ui avatar image" src="assets/images/committee/kogan.jpg">
-    <div class="content">
-      <a class="header">Marina Kogan</a>
-      <div class="description">University of Utah</div>
     </div>
   </div>
 </div>
