@@ -24,9 +24,9 @@ Alexandria, VA, USA, September 16-17, 2019
 | 10:00 – 10:30	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 10:30 – 12:00	| **Panel: State and Future of Cyberinfrastrure for Large Facilities**<br />Dan Stanzione 
 | 12:00 – 13:00	| <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
-| 13:00 – 13:45	| **Large Facilities Data Lifecycle**<br />Anirban Mandal
-| 13:45 – 15:15	| **Lightning Talks**<br />(10 mins each)
-| 15:15 - 15:30	| **Setting up the Breakouts**
+| 13:00 – 13:30	| **Large Facilities Data Lifecycle**<br />Anirban Mandal
+| 13:30 – 15:25	| **Lightning Talks**<br />(7 mins each - 4 slides)
+| 15:25 - 15:30	| **Setting up the Breakouts**
 | 15:30 – 16:00	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 16:00 – 17:30	| **Parallel Breakouts:**<br />1. What are the opportunities for collaboration between LFs and other Large CI projects?<br /><span style="color: #999; padding-bottom: 1em">Leads: Brian Bockelman and Ilya Baldin</span><br />2. What are the CI challenges that need to be addressed in the next 5 years to support LFs science missions?<br /><span style="color: #999; padding-bottom: 1em">Leads: Anirban Mandal and Daryl Swensen</span><br />3. What are the non-technical issues that influence CI development and how they can be collaboratively addressed?<br /><span style="color: #999; padding-bottom: 1em">Leads: Susan Sons and Doug Thain</span>
 | 17:30 – 18:00	| **Breakout Summaries**<br />Top 3-5 findings and recommendations from each group
