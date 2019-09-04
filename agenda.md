@@ -28,7 +28,7 @@ Alexandria, VA, USA, September 16-17, 2019
 | 13:45 – 15:15	| **Lightning Talks**<br />(10 mins each)
 | 15:15 - 15:30	| **Setting up the Breakouts**
 | 15:30 – 16:00	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
-| 16:00 – 17:30	| **Parallel Breakouts:**<br />1. What are the opportunities for collaboration between LFs and other Large CI projects?<br />Leads: Brian Bockelman and Ilya Baldin<br />2. What are the CI challenges that need to be addressed in the next 5 years to support LFs science missions?<br />Leads: Anirban Mandal and Daryl Swensen<br />3. What are the non-technical issues that influence CI development and how they can be collaboratively addressed?<br />Leads: Susan Sons and Doug Thain
+| 16:00 – 17:30	| **Parallel Breakouts:**<br />1. What are the opportunities for collaboration between LFs and other Large CI projects?<br /><span style="color: #999; padding-bottom: 1em">Leads: Brian Bockelman and Ilya Baldin</span><br />2. What are the CI challenges that need to be addressed in the next 5 years to support LFs science missions?<br /><span style="color: #999; padding-bottom: 1em">Leads: Anirban Mandal and Daryl Swensen</span><br />3. What are the non-technical issues that influence CI development and how they can be collaboratively addressed?<br /><span style="color: #999; padding-bottom: 1em">Leads: Susan Sons and Doug Thain</span>
 | 17:30 – 18:00	| **Breakout Summaries**<br />Top 3-5 ideas from each group
 | 18:30 – 20:30	| <span style="color: #666"><i class="fas fa-wine-glass-alt"></i>&nbsp;&nbsp;Reception with cash bar</span>
 
