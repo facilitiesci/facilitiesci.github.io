@@ -40,6 +40,6 @@ Alexandria, VA, USA, September 16-17, 2019
 | 10:00 – 10:30 | <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 10:30 – 12:00	| **Panel on Workforce Development and Retention**<br />Tom Cheatham
 | 12:00 – 13:00 | <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
-| 13:00 – 14:30 | **Parallel Breakouts:**<br />- Building a CI community: what are the impediments and opportunities?<br />- Enhancing the CI workforce: what are the challenges and solutions?<br />- CI for science, where does the LF CI end and the user CI begin?
+| 13:00 – 14:30 | **Parallel Breakouts:**<br />1. Building a CI community: what are the impediments and opportunities?<br /><span style="color: #999; padding-bottom: 1em">Leads: Marina Kogan and Patrick Brady</span><br />2. Enhancing the CI workforce: what are the challenges and solutions?<br /><span style="color: #999; padding-bottom: 1em">Leads: Jarek Nabrzyski and John Towns</span><br />3. CI for science, where does the LF CI end and the user CI begin?<br /><span style="color: #999; padding-bottom: 1em">Leads: Alex Szalay and Tom Gulbransen</span>
 | 14:30 – 15:00	| **Breakout Summaries**<br />Top 3-5 ideas from each group
 | 15:00 – 15:15	| **Wrap-up**
