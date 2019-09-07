@@ -18,14 +18,16 @@ Alexandria, VA, USA, September 16-17, 2019
 ### Day 1 – Monday, September 16, 2019
 
 | 07:30 – 08:30	| <span style="color: #666">Breakfast and Registration</span>
-| 08:30 – 08:45	| **Setting the Stage: 2017 CI workshop and the Cyberinfrastructure Center of Excellence Pilot**<br />Ewa Deelman and Tom Gulbransen
-| 08:45 – 09:15	| **NSF perspective**
-| 09:15 – 10:00	| **Guided Activity**<br />Kate Keahey and Rafael Ferreira da Silva
-| 10:00 – 10:30	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
-| 10:30 – 12:00	| **Panel: State and Future of Cyberinfrastrure for Large Facilities**<br />Dan Stanzione 
+| 08:30 – 08:35	| **Opening Remarks**<br />William Miller (NSF)
+| 08:35 – 09:05	| **TBA**<br />Joanne Tornow (NSF)
+| 09:05 – 09:40	| **Setting the Stage: 2017 CI workshop and the Cyberinfrastructure Center of Excellence Pilot**<br />Ewa Deelman and Tom Gulbransen
+| 09:40 – 10:10	| **Guided Activity**<br />Kate Keahey and Rafael Ferreira da Silva
+| 10:10 – 10:40	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
+| 10:40 – 12:00	| **Panel: State and Future of Cyberinfrastrure for Large Facilities**<br />Dan Stanzione 
 | 12:00 – 13:00	| <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
-| 13:00 – 13:30	| **Large Facilities Data Lifecycle**<br />Anirban Mandal
-| 13:30 – 15:25	| **Lightning Talks**<br />(7 mins each - 4 slides)<br /><span style="font-size: 85%">SCiMMA: Scalable Cyberinfrastructure to support Multimessenger Astrophysics (Patrick R Brady)<br />A Global Data Federation and Content Delivery System for Large Facilities (Frank Wuerthwein)<br />Interactive Access and Visualization of Large Scale Image Data (Steve Petruzza)<br />CyVerse: Cyberinfrastructure for life science research (Eric Lyons)<br />Sustaining Software Across a Growing Number of Facilities (Miron Livny)<br />Next Generation Very Large Array: Communications (David Halstead)<br />Analysis of Alternatives (Jeffrey Glatstein)<br />Cloud CI Services for Agile Facilities (Ian Foster)<br />Software Defined Infrastructure in the Academic Research Fleet (ARF) (Chris Romsos)<br />Scaling NRAO to the future (Brian Glendenning)<br />New Approaches to Building and Operating Distributed Cyberinfrastructure for Large Facilities (Rob Gardner)<br />Schema.org and structured data for discovery (Douglas Fils)<br />Enabling Multi-Instrument Pixel-Level Science with A High Throughput Computing, Data Access and Analysis Facility (Margaret Johnson)<br />Chameleon: How to Build a Cloud++ (Kate Keahey)</span>
+| 13:00 – 13:15	| **NSF/CISE Perspective**<br />Erwin Gianchandani (NSF)
+| 13:15 – 13:45	| **Large Facilities Data Lifecycle**<br />Anirban Mandal
+| 13:45 – 15:25	| **Lightning Talks**<br />(7 mins each - 4 slides)<br /><span style="font-size: 85%">SCiMMA: Scalable Cyberinfrastructure to support Multimessenger Astrophysics (Patrick R Brady)<br />Interactive Access and Visualization of Large Scale Image Data (Steve Petruzza)<br />CyVerse: Cyberinfrastructure for life science research (Eric Lyons)<br />Sustaining Software Across a Growing Number of Facilities (Miron Livny)<br />Next Generation Very Large Array: Communications (David Halstead)<br />Analysis of Alternatives (Jeffrey Glatstein)<br />Cloud CI Services for Agile Facilities (Ian Foster)<br />Software Defined Infrastructure in the Academic Research Fleet (ARF) (Chris Romsos)<br />Scaling NRAO to the future (Brian Glendenning)<br />New Approaches to Building and Operating Distributed Cyberinfrastructure for Large Facilities (Rob Gardner)<br />Schema.org and structured data for discovery (Douglas Fils)<br />Enabling Multi-Instrument Pixel-Level Science with A High Throughput Computing, Data Access and Analysis Facility (Margaret Johnson)<br />Chameleon: How to Build a Cloud++ (Kate Keahey)</span>
 | 15:25 - 15:30	| **Setting up the Breakouts**
 | 15:30 – 16:00	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 16:00 – 17:30	| **Parallel Breakouts:**<br />1. What are the opportunities for collaboration between LFs and other Large CI projects?<br /><span style="color: #999; padding-bottom: 1em">Leads: Brian Bockelman and Ilya Baldin</span><br />2. What are the CI challenges that need to be addressed in the next 5 years to support LFs science missions?<br /><span style="color: #999; padding-bottom: 1em">Leads: Anirban Mandal and Daryl Swensen</span><br />3. What are the non-technical issues that influence CI development and how they can be collaboratively addressed?<br /><span style="color: #999; padding-bottom: 1em">Leads: Susan Sons and Doug Thain</span>
