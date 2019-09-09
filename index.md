@@ -72,7 +72,7 @@ and experiences and discuss the future of CI and the CI workforce.
 
 ## Meet the Participants
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThCEmE232na8xmRpifsNbdMFNhbWvn7x0RSs71Cl-rXavtNDrx6c8NB6wAm-hM7zUyWEjQ5_9fT0dK/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThCEmE232na8xmRpifsNbdMFNhbWvn7x0RSs71Cl-rXavtNDrx6c8NB6wAm-hM7zUyWEjQ5_9fT0dK/embed?start=true&loop=true&delayms=5000" frameborder="0" width="600" height="375" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <script type="text/javascript">
 var slideIndex = 0;
