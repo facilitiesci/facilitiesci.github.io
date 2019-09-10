@@ -23,7 +23,7 @@ Alexandria, VA, USA, September 16-17, 2019
 | 09:05 – 09:40	| **Setting the Stage: 2017 CI workshop and the Cyberinfrastructure Center of Excellence Pilot**<br />Ewa Deelman and Tom Gulbransen
 | 09:40 – 10:10	| **Guided Activity**<br />Kate Keahey and Rafael Ferreira da Silva
 | 10:10 – 10:40	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
-| 10:40 – 12:00	| **Panel: State and Future of Cyberinfrastructure for Large Facilities**<br />Moderator: Dan Stanzione<br /><span style="font-size: 85%">Peter Couvares, LIGO<br />Eric Lyons, Cyverse<br />Thomas, Marullo, Lehigh University</span>
+| 10:40 – 12:00	| **Panel: State and Future of Cyberinfrastructure for Large Facilities**<br /><span style="color: #666">Moderator: Dan Stanzione<br />Panelists: Peter Couvares (LIGO), Eric Lyons (Cyverse), and Thomas Marullo (Lehigh University)</span>
 | 12:00 – 13:00	| <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
 | 13:00 – 13:15	| **NSF/CISE Perspective**<br />Erwin Gianchandani (NSF)
 | 13:15 – 13:45	| **Large Facilities Data Lifecycle**<br />Anirban Mandal
