@@ -38,9 +38,9 @@ Alexandria, VA, USA, September 16-17, 2019
 
 | 07:30 – 08:20	| <span style="color: #666">Breakfast</span>
 | 08:20 – 08:30 | **Setting the stage for Day 2**<br />Ewa Deelman
-| 08:30 – 10:00 | **Panel on Shared CI Services Opportunities and Challenges**<br />Adam Bolton
+| 08:30 – 10:00 | **Panel on Shared CI Services Opportunities and Challenges**<br /><span style="color: #666">Moderator: Adam Bolton</span>
 | 10:00 – 10:30 | <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
-| 10:30 – 12:00	| **Panel on Workforce Development and Retention**<br />Tom Cheatham
+| 10:30 – 12:00	| **Panel on Workforce Development and Retention**<br /><span style="color: #666">Moderator: Tom Cheatham</span>
 | 12:00 – 13:00 | <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
 | 13:00 – 14:30 | **Parallel Breakouts:**<br />1. Building a CI community: what are the impediments and opportunities?<br /><span style="color: #999; padding-bottom: 1em">Leads: Marina Kogan and Patrick Brady</span><br />2. Enhancing the CI workforce: what are the challenges and solutions?<br /><span style="color: #999; padding-bottom: 1em">Leads: Jarek Nabrzyski and John Towns</span><br />3. CI for science, where does the LF CI end and the user CI begin?<br /><span style="color: #999; padding-bottom: 1em">Leads: Alex Szalay and Tom Gulbransen</span>
 | 14:30 – 15:00	| **Breakout Summaries**<br />Top 3-5 findings and recommendations from each group
