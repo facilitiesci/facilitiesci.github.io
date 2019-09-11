@@ -15,6 +15,8 @@ td:nth-of-type(2) {
 
 Alexandria, VA, USA, September 16-17, 2019
 
+<img src="assets/images/meeting-rooms.png">
+
 ### Day 1 – Monday, September 16, 2019
 
 | 07:30 – 08:30	| <span style="color: #666">Breakfast and Registration</span>
@@ -32,7 +34,7 @@ Alexandria, VA, USA, September 16-17, 2019
 | 15:30 – 16:00	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 16:00 – 17:30	| **Parallel Breakouts:**<br />1. What are the opportunities for collaboration between LFs and other Large CI projects?<br /><span class="room">Old Town Ballroom</span><span style="color: #999; padding-bottom: 1em">Leads: Brian Bockelman and Ilya Baldin</span><br />2. What are the CI challenges that need to be addressed in the next 5 years to support LFs science missions?<span class="room">Rosemont Room</span><br /><span style="color: #999; padding-bottom: 1em">Leads: Anirban Mandal and Daryl Swensen</span><br />3. What are the non-technical issues that influence CI development and how they can be collaboratively addressed?<span class="room">Del Ray Room</span><br /><span style="color: #999; padding-bottom: 1em">Leads: Susan Sons and Doug Thain</span>
 | 17:30 – 18:00	| **Breakout Summaries**<span class="room">Old Town Ballroom</span><br />Top 3-5 findings and recommendations from each group
-| 18:30 – 20:30	| <span style="color: #666"><i class="fas fa-wine-glass-alt"></i>&nbsp;&nbsp;Reception with cash bar</span>
+| 18:30 – 20:30	| <span style="color: #666"><i class="fas fa-wine-glass-alt"></i>&nbsp;&nbsp;Reception with cash bar</span><span class="room">Courtyard</span>
 
 ### Day 2 – Tuesday, September 17, 2019
 
