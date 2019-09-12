@@ -57,54 +57,54 @@ Rob | Gardner | University of Chicago
 Philip | Gates | Texas A & M University
 Erwin | Gianchandani | National Science Foundation
 Jeffrey | Glatstein | Woods Hole Oceanographic Institution
-Brian | Glendenning
-Tom | Gulbransen
-David | Halstead
-Ben | Hauger
-John | Haverlack
-Pamela | Hill
-Margaret | Johnson
-JJ | Kavelaars
-Kate | Keahey
-Jeff | Kern
-Marina | Kogan
-Alexis | Lewis
-Sean | Liddick
-Miron | Livny
-Ramon | Lugo
-Eric | Lyons
-Anirban | Mandal
-Jasmine | Mann
-Thomas | Marullo
-Frank | McKenna
-William | Miller
-Shree | Mishra
-Christopher | Morrison
-Angela | Murillo
-Jarek | Nabrzyski
-Sanjay | Padhi
-Valerio | Pascucci
-Joy | Pauschke
-Chuck | Pavloski
-Steve | Petruzza
-Kevin | Porter
-Roland | Roberts
-Stefan | Robila
-Christopher | Romsos
-Jim | Rosser
-Mats | Rynge
-Susan | Sons
-Kristin | Spencer
-Dan | Stanzione
-Laura | Stolp
-Alejandro | Suarez
-Daryl | Swensen
-Alexander | Szalay
-Troy | Tanner
-Douglas | Thain
-Christopher | Thompson
-Kevin | Thompson
-Joanne | Tornow
+Brian | Glendenning | National Radio Astronomy Observatory
+Tom | Gulbransen | Battelle Memorial Institute
+David | Halstead | National Radio Astronomy Observatory
+Ben | Hauger | AURA, NOAO
+John | Haverlack | University of Alaska
+Pamela | Hill | National Center for Atmospheric Research
+Margaret | Johnson | NCSA/UIUC
+JJ | Kavelaars | National Research Council of Canada
+Kate | Keahey | Argonne National Laboratory
+Jeff | Kern | National Radio Astronomy Observatory
+Marina | Kogan | University of Utah
+Alexis | Lewis | National Science Foundation
+Sean | Liddick | NSCL / MSU
+Miron | Livny | University of Wisconsin-Madison
+Ramon | Lugo | University of Central Florida
+Eric | Lyons | University of Arizona
+Anirban | Mandal | RENCI, UNC - Chapel Hill
+Jasmine | Mann | USC Information Sciences Institute
+Thomas | Marullo | Lehigh University
+Frank | McKenna | UC Berkeley 
+William | Miller | National Science Foundation
+Shree | Mishra | National Science Foundation
+Christopher | Morrison | Gemini Observatory
+Angela | Murillo | Indiana University, CACR
+Jarek | Nabrzyski | University of Notre Dame
+Sanjay | Padhi | Amazon
+Valerio | Pascucci | University of Utah
+Joy | Pauschke | CMMI
+Chuck | Pavloski | Penn State Institute for CyberScience
+Steve | Petruzza | University of Utah
+Kevin | Porter | National Science Foundation
+Roland | Roberts | National Science Foundation
+Stefan | Robila | National Science Foundation
+Christopher | Romsos | Oregon State University, CEOAS
+Jim | Rosser | IODP JRSO
+Mats | Rynge | USC Information Sciences Institute
+Susan | Sons | Indiana University, CACR
+Kristin | Spencer | National Science Foundation
+Dan | Stanzione | TACC, UT Austin
+Laura | Stolp | Woods Hole Oceanographic Institution
+Alejandro | Suarez | National Science Foundation
+Daryl | Swensen | Oregon State Univeristy
+Alexander | Szalay | Johns Hopkins
+Troy | Tanner | APL-UW
+Douglas | Thain | University of Notre Dame
+Christopher | Thompson | Purdue University
+Kevin | Thompson | National Science Foundation
+Joanne | Tornow | National Science Foundation
 John | Towns
 Charles | Vardeman
 Amy | Walton
