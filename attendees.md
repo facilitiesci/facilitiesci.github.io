@@ -4,10 +4,13 @@ layout: default
 
 <style>
 td:nth-of-type(1) {
-    width:9em;
+    width:20em;
 }
 td:nth-of-type(2) {
-    width:50em;
+    width:20em;
+}
+td:nth-of-type(3) {
+    width:30em;
 }
 </style>
 
@@ -15,21 +18,21 @@ td:nth-of-type(2) {
 
 First Name | Last Name | Institution
 ----------|------------|------------
-Mark | Abbot
-Rachel | Adams
-Stuart | Anderson
-Scot | Arnold
-Ilya | Baldin
-Steve | Barnet
-Chaitan | Baru
-Maggie | Benoit
-Karan  | Bhatia
-Cheryl Ann | Blain
-Brian | Bockelman
-Adam | Bolton
-Devin | Bougie
-Patrick | Brady
-Jennifer | Bridge
+Mark | Abbot | Woods Hole Oceanographic Institution
+Rachel | Adams | UC Boulder
+Stuart | Anderson | Caltech
+Scot | Arnold | National Science Foundation
+Ilya | Baldin | RENCI, UNC - Chapel Hill
+Steve | Barnet | UW-Madison
+Chaitan | Baru | National Science Foundation
+Maggie | Benoit | National Science Foundation
+Karan  | Bhatia | Google
+Cheryl Ann | Blain | Naval Research Laboratory
+Brian | Bockelman | Morgridge Institute for Research
+Adam | Bolton | National Optical Astronomy Observatory
+Devin | Bougie | Cornell University
+Patrick | Brady | University of Wisconsin-Milwaukee
+Jennifer | Bridge | University of Florida
 Joel | Brock
 Sharon | Broude Geva
 Peter | Bryan
