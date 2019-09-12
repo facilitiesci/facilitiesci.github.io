@@ -48,15 +48,15 @@ Mark | Dufour | National Science Foundation
 Lee | Ellett | Scripps Institution of Oceanography, UCSD
 Douglas | Ertz | UNAVCO
 Ken | Feldman | University of Washington
-Changda | Feng
-Rafael | Ferreirra da Silva 
-Douglas | Fils
-Ian | Foster
-Montona | Futrell-Griggs
-Rob | Gardner
-Philip | Gates
-Erwin | Gianchandani
-Jeffrey | Glatstein
+Changda | Feng | Florida International University
+Rafael | Ferreira da Silva | USC Information Sciences Institute
+Douglas | Fils | Consortium for Ocean Leadership
+Ian | Foster | Argonne National Laboratory
+Montona | Futrell-Griggs | National Science Foundation
+Rob | Gardner | University of Chicago
+Philip | Gates | Texas A & M University
+Erwin | Gianchandani | National Science Foundation
+Jeffrey | Glatstein | Woods Hole Oceanographic Institution
 Brian | Glendenning
 Tom | Gulbransen
 David | Halstead
