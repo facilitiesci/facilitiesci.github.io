@@ -16,8 +16,8 @@ td:nth-of-type(3) {
 
 # Workshop Attendees
 
-First Name | Last Name | Institution
-----------|------------|------------
+First Name | Last Name | Organization
+----------|------------|-------------
 Mark | Abbot | Woods Hole Oceanographic Institution
 Rachel | Adams | UC Boulder
 Stuart | Anderson | Caltech
