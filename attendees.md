@@ -4,13 +4,13 @@ layout: default
 
 <style>
 td:nth-of-type(1) {
-    width:20em;
+    width:18em;
 }
 td:nth-of-type(2) {
-    width:20em;
+    width:18em;
 }
 td:nth-of-type(3) {
-    width:30em;
+    width:34em;
 }
 </style>
 
@@ -33,21 +33,21 @@ Adam | Bolton | National Optical Astronomy Observatory
 Devin | Bougie | Cornell University
 Patrick | Brady | University of Wisconsin-Milwaukee
 Jennifer | Bridge | University of Florida
-Joel | Brock
-Sharon | Broude Geva
-Peter | Bryan
-Robert | Chadduck
-Vipin | Chaudhary
-Surajit | Chaudhuri
-Thomas | Cheatham
-Laura | Christopherson
-Peter | Couvares
-Chris | Davis
-Ewa | Deelman
-Mark | Dufour
-Lee | Ellett
-Douglas | Ertz
-Ken | Feldman
+Joel | Brock | Cornell University
+Sharon | Broude Geva | University of Michigan
+Peter | Bryan | Lehigh University
+Robert | Chadduck | National Science Foundation
+Vipin | Chaudhary | National Science Foundation
+Surajit | Chaudhuri | Microsoft
+Thomas | Cheatham | University of Utah
+Laura | Christopherson | RENCI, UNC - Chapel Hill
+Peter | Couvares | Caltech
+Chris | Davis | National Science Foundation
+Ewa | Deelman | USC Information Sciences Institute
+Mark | Dufour | National Science Foundation
+Lee | Ellett | Scripps Institution of Oceanography, UCSD
+Douglas | Ertz | UNAVCO
+Ken | Feldman | University of Washington
 Changda | Feng
 Rafael | Ferreirra da Silva 
 Douglas | Fils
