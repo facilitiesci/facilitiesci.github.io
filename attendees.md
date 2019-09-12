@@ -105,13 +105,13 @@ Douglas | Thain | University of Notre Dame
 Christopher | Thompson | Purdue University
 Kevin | Thompson | National Science Foundation
 Joanne | Tornow | National Science Foundation
-John | Towns
-Charles | Vardeman
-Amy | Walton
-Joseph | Wartman
-Von | Welch
-Tim | Weston
-Dan | Wilson
-Frank | Wuerthwein
-Jane | Wyngaard
-Michael | Zentner
+John | Towns | NCSA
+Charles | Vardeman | University of Notre Dame
+Amy | Walton | National Science Foundation
+Joseph | Wartman | University of Washington
+Von | Welch | CACR, Indiana University 
+Tim | Weston | UC Boulder
+Dan | Wilson | UC Davis
+Frank | Wuerthwein | UCSD/SDSC
+Jane | Wyngaard | University of Notre Dame
+Michael | Zentner | SDSC
