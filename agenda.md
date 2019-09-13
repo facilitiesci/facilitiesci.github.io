@@ -21,7 +21,7 @@ Alexandria, VA, USA, September 16-17, 2019
 
 | 07:30 – 08:30	| <span style="color: #666">Breakfast and Registration</span>
 | 08:30 – 08:35	| **Opening Remarks**<span class="room">Old Town Ballroom</span><br />William Miller (NSF) | <a href="https://docs.google.com/document/d/1sYVC6Bc3cDvi_c8rgWuCXw3VoO6v1KgKoj-qrIaiMqA/edit?usp=sharing">AM&nbsp;notes</a>
-| 08:35 – 09:05	| **TBA**<span class="room">Old Town Ballroom</span><br />Joanne Tornow (NSF) | <a href="https://docs.google.com/document/d/1sYVC6Bc3cDvi_c8rgWuCXw3VoO6v1KgKoj-qrIaiMqA/edit?usp=sharing">AM&nbsp;notes</a>
+| 08:35 – 09:05	| **Building LF Cyberinfrastructure Communities to Advance the Endless Frontier**<span class="room">Old Town Ballroom</span><br />Joanne Tornow (NSF) | <a href="https://docs.google.com/document/d/1sYVC6Bc3cDvi_c8rgWuCXw3VoO6v1KgKoj-qrIaiMqA/edit?usp=sharing">AM&nbsp;notes</a>
 | 09:05 – 09:40	| **Setting the Stage: 2017 CI workshop and the Cyberinfrastructure Center of Excellence Pilot**<span class="room">Old Town Ballroom</span><br />Ewa Deelman and Tom Gulbransen | <a href="https://docs.google.com/document/d/1sYVC6Bc3cDvi_c8rgWuCXw3VoO6v1KgKoj-qrIaiMqA/edit?usp=sharing">AM&nbsp;notes</a>
 | 09:40 – 10:10	| **Guided Activity**<span class="room">Old Town Ballroom</span><br />Kate Keahey and Rafael Ferreira da Silva | <a href="https://docs.google.com/document/d/1sYVC6Bc3cDvi_c8rgWuCXw3VoO6v1KgKoj-qrIaiMqA/edit?usp=sharing">AM&nbsp;notes</a>
 | 10:10 – 10:40	| <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
