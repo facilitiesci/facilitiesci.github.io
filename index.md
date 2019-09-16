@@ -74,7 +74,7 @@ and experiences and discuss the future of CI and the CI workforce.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThCEmE232na8xmRpifsNbdMFNhbWvn7x0RSs71Cl-rXavtNDrx6c8NB6wAm-hM7zUyWEjQ5_9fT0dK/embed?start=true&loop=true&delayms=8000" frameborder="0" width="730" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<p>&nbsp;</p>
+## Photos
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/184478201@N03/albums/72157710872829817" title="Day 1 - 2019 NSF Workshop on Connecting CI &amp; LFs"><img src="https://live.staticflickr.com/65535/48744997976_df1fca9815_z.jpg" width="640" height="427" alt="Day 1 - 2019 NSF Workshop on Connecting CI &amp; LFs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
