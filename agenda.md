@@ -40,7 +40,7 @@ Alexandria, VA, USA, September 16-17, 2019
 
 | 07:30 – 08:20	| <span style="color: #666">Breakfast</span>
 | 08:20 – 08:30 | **Setting the stage for Day 2**<span class="room">Old Town Ballroom</span><br />Ewa Deelman | <a href="https://docs.google.com/document/d/1w-rQ-8IMogreHJHzS-oCPTpFnW96s-N4OcoKJpHoUzg/edit?usp=sharing">AM&nbsp;notes</a>
-| 08:30 – 10:00 | **Panel on Shared CI Services Opportunities and Challenges**<span class="room">Old Town Ballroom</span><br /><span style="color: #666">Moderator: Adam Bolton<br />Panelists: Pamela Hill, JJ Kavelaars, Von Welch, and Mike Zentner</span> | <a href="https://docs.google.com/document/d/1w-rQ-8IMogreHJHzS-oCPTpFnW96s-N4OcoKJpHoUzg/edit?usp=sharing">AM&nbsp;notes</a>
+| 08:30 – 10:00 | **Panel: <a href="/presentations/shared-ci-services.pdf" target="_blank">Shared CI Services Opportunities and Challenges</a>**<span class="room">Old Town Ballroom</span><br /><span style="color: #666">Moderator: Adam Bolton<br />Panelists: Pamela Hill, JJ Kavelaars, Von Welch, and Mike Zentner</span> | <a href="https://docs.google.com/document/d/1w-rQ-8IMogreHJHzS-oCPTpFnW96s-N4OcoKJpHoUzg/edit?usp=sharing">AM&nbsp;notes</a>
 | 10:00 – 10:30 | <span style="color: #666"><i class="fas fa-coffee"></i>&nbsp;&nbsp;Break</span>
 | 10:30 – 12:00	| **Panel on Workforce Development and Retention**<span class="room">Old Town Ballroom</span><br /><span style="color: #666">Moderator: Tom Cheatham<br />Panelists: Rachel Adams, Sharon Broude Geva, Jim Rosser, Frank Wuerthwein</span> | <a href="https://docs.google.com/document/d/1w-rQ-8IMogreHJHzS-oCPTpFnW96s-N4OcoKJpHoUzg/edit?usp=sharing">AM&nbsp;notes</a>
 | 12:00 – 13:00 | <span style="color: #666"><i class="fas fa-utensils"></i>&nbsp;&nbsp;Lunch Break</span>
