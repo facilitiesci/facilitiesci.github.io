@@ -162,15 +162,6 @@ and experiences and discuss the future of CI and the CI workforce.
   <object data="https://lh3.googleusercontent.com/t3D9BXHv9bULygowL9l2ElZ2JZQS-I5OADR78Iw4Rk9-0RTyS0zYDwldAn46R0_l4otj4vJ_lfT9VUctJQcE_Xwt8W_P8z7CQ-ktVQ0ZsZ34qeLUdAphgYmmILMWJ9SDnQQcLJJRTkI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/nAaI4dqaEdO8HxyebCjV9n2NoCmkj2siyeyckPXiPFsm_WqYgoYmZRElslqoUpTZY2XFMtv1e5qI_kLgJNONkujW0XQKcaS9a7yNwMc9DUCO3NMj6jU3T5r6TZT1dzImFXTv2EUeeAU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Vp-y5ZiyGNQAk84w3UtXY39q5gRpR7Lqfa1z63iFPcOhdvPCIFUdQMIMTcFgJFF9Y2L56oGWO6QsFa2YNme9y-9WV_N5KzEKM6qSgALhEzmabGCxhPctJyoKsbGJKPKNqRTUXCGcxM8=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/Ys-FpilqMC0l4nu6vkfpjAWZKEPqLlJbcZAxeZWHl20WKlSO6jSybA0uSGmV3zKphOpKAqGqDMAdIdvdhW89MN90JOULumykUyq8TlP7qsZ8h8_Rp4UlTR8KRfzquJhzBqb-KPnvfJY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/QTqd2BaUCV-rwUpaLcvb-b4rgXzEVRS8nrwldT60xIYpfqbe9-LVjuLxEQ9uk6ZUQO1gKlJ2zzYFsedZtX1DKksqZkUQalc77RJ_IRXpP2QxOaUDx6NyId2S-MTCyOUH4EVBzJbeY8Q=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/w3gnjodl9pFDwIkGQf28V3ZS_exTi0uLawhnSzTXP6QKSIkxurhlk6i516ouYM-RbLmboVlOiJiBEJoOvqQisBonuzB-AQ9riyjq2Itfr4eQgZYYt9knIPTbsrpbFtBKkLvx9V_A_Ak=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/0ul-PZ-ryOjNnsZM7tDiBDXaPvHk__BwtFDMie3NtrKHEtriWwWCKVAYb4ETt_FIm8YpJMKfrrnrPsCSCIMKzvdxNl5v3gsisPHCP8ol5ewKYs8Es4IPeeY5lSdxsLM6gk0jfgdA-Gc=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/63kiPnygkRzoqqHjZzL7NYE4Zrpm8eiN4AUKgyB7LEAcPw2g6fXjNEy0KTLmXctZ9UquIka6gfv58KT3yVwrsDTr3wRjQqemmH7o6tS41sDQhir6ti7hcgpPfiiBPiuiCYz3ku3GSAs=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/8bARzwq5TDaVG8fk1ZNnQgGRC-xDcNfTHK6PxwxPFA4DEcZR2CLk03SB_ZL5b4-jX43se_mOEcfQ7xy2BfjPEKYI9ASE_Sfl5ts71iYmVSSz5hoOS0zxuBb1_ogryIN-cr6bFrM4v6Q=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/qo_ySCFpchBIl4-Pb5LObK6iotSQts34qj6V2R3YyLZQVEfIZooxt6dm9wrKZZCBn48FlXRd-KI5HWNaWfPRGaI6aQm2vJss8IbrI-r1w7HsLYUiG1qREG1Oj9LRig0jwjf4E5CalWM=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/TwnTaDWbAxwhj5_xkvwuaNCXRyC63kFh39RhiTJLqYXsyKrbifpMq-QgVkxyboNcNgkDmio5i3IPlMjzyPOVVFLZCRGBB__MKwajv0uNm-0gbTNUKhO5W4X0XvlDKCVUByepEyQZ-P8=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/CP-p2H3S8WIyfAglYbM0aeaLWkajP620kBtG0hLXg0Vgsjlz3qLiejCkmBc8G2pfxR2bT_DvsWiDnmSKK4JS8pPI20uyUaTaXnCwOaLXIcXfUaVl0je9Q4cmj1eyWNMJ4oT7QjOqhew=w1920-h1080"></object>
 </div>
 
 
