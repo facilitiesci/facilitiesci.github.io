@@ -13,8 +13,6 @@ td:nth-of-type(2) {
 
 # Agenda
 
-Alexandria, VA, USA, September 16-17, 2019
-
 ### Day 1 – Monday, September 16, 2019
 
 | 07:30 – 08:30	| <span style="color: #666">Breakfast and Registration</span>
@@ -47,4 +45,5 @@ Alexandria, VA, USA, September 16-17, 2019
 | 15:00 – 15:15	| **Wrap-up**<span class="room">Old Town Ballroom</span> | <a href="https://docs.google.com/document/d/1Jnuy7ID3KvvsTiPaHyU5bOq8PqT9aRHuWCYbP4Lr9WI/edit?usp=sharing">PM&nbsp;notes</a>
 | | **<a href="https://tinyurl.com/lf-ci-thoughts" target="_blank">Final Thoughts</a>: Please add yours here** |
 
+<br /><br />
 <img src="assets/images/meeting-rooms.png">
