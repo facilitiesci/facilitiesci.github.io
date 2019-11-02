@@ -8,15 +8,15 @@ title: {{ site.name }}
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="assets/images/ci-9.jpg" style="width:100%">
+    <img src="/assets/images/ci-9.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/images/lf-2.png" style="width:100%">
+    <img src="/assets/images/lf-2.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/images/lf-3.png" style="width:100%">
+    <img src="/assets/images/lf-3.png" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
@@ -26,29 +26,29 @@ title: {{ site.name }}
 
 <!-- The dots/circles -->
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
 # Workshop Overview
 
-Cyberinfrastructure (CI) is the fabric of modern science. Large collaborations and 
-individual scientists rely on CI to support the entire data lifecycle from data 
-capture and processing to data storage and archiving and finally to data access, 
-visualization, and dissemination. The Large Facilities (LFs), the biggest scientific 
-investments made by the National Science Foundation, are relying on existing CI and 
+Cyberinfrastructure (CI) is the fabric of modern science. Large collaborations and
+individual scientists rely on CI to support the entire data lifecycle from data
+capture and processing to data storage and archiving and finally to data access,
+visualization, and dissemination. The Large Facilities (LFs), the biggest scientific
+investments made by the National Science Foundation, are relying on existing CI and
 building new CI capabilities and solutions to support their scientific communities.
 
-The 2017 NSF Large Facilities Cyberinfrastructure Workshop 
+The 2017 NSF Large Facilities Cyberinfrastructure Workshop
 ([LFCI Workshop](/2017.html)) found that:
-> There is also a lack of a facilities' CI community that can collectively address 
+> There is also a lack of a facilities' CI community that can collectively address
 > CI sustainability and help provide continuity between existing and future facilities.
 
-In 2017, the LFCI workshop brought together members of LFs and CI providers and 
-practitioners to discuss possible avenues of collaboration, share common experiences, 
-and discuss common challenges. This workshop aims to continue the discussion started 
-in 2017 and to provide a forum for the cyberinfrastructure experts to share ideas 
+In 2017, the LFCI workshop brought together members of LFs and CI providers and
+practitioners to discuss possible avenues of collaboration, share common experiences,
+and discuss common challenges. This workshop aims to continue the discussion started
+in 2017 and to provide a forum for the cyberinfrastructure experts to share ideas
 and experiences and discuss the future of CI and the CI workforce.
 
 ## Goals
