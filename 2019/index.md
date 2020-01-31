@@ -35,7 +35,7 @@ title: {{ site.name }}
 
 <embed src="2019_nsf_lf_ci_report.pdf" width="100%" height="940" />
 <div style="text-align: right; color: #666; font-size: 0.8em">
-  <p>DOI: <a href="https://dx.doi.org/10.25549/0ZBF-8M77" target="_blank">10.25549/0ZBF-8M77</a></p>
+  <p>DOI: <a href="https://dx.doi.org/10.25549/0ZBF-8M77" target="_blank">10.25549/0ZBF-8M77</a>, January 31, 2020.</p>
 </div>
 
 # Workshop Overview
