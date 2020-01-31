@@ -31,6 +31,11 @@ title: {{ site.name }}
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
+# Workshop Report
+
+<!-- <object data="2019_nsf_lf_ci_report.pdf" width="100%" height="100%" type='application/pdf'/> -->
+<embed src="2019_nsf_lf_ci_report.pdf" width="100%" height="940" />
+
 # Workshop Overview
 
 Cyberinfrastructure (CI) is the fabric of modern science. Large collaborations and
