@@ -4,37 +4,39 @@ title: {{ site.name }}
 ---
 
 <!-- Slideshow container -->
-<div class="slideshow-container">
+<!-- <div class="slideshow-container"> -->
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <img src="/assets/images/ci-9.jpg" style="width:100%">
-  </div>
+  <!-- <div class="mySlides fade"> -->
+    <!-- <img src="/assets/images/ci-9.jpg" style="width:100%"> -->
+  <!-- </div> -->
 
-  <div class="mySlides fade">
-    <img src="/assets/images/lf-2.png" style="width:100%">
-  </div>
+  <!-- <div class="mySlides fade"> -->
+    <!-- <img src="/assets/images/lf-2.png" style="width:100%"> -->
+  <!-- </div> -->
 
-  <div class="mySlides fade">
-    <img src="/assets/images/lf-3.png" style="width:100%">
-  </div>
+  <!-- <div class="mySlides fade"> -->
+    <!-- <img src="/assets/images/lf-3.png" style="width:100%"> -->
+  <!-- </div> -->
 
   <!-- Next and previous buttons -->
   <!--a class="prev" onclick="plusSlides(-1)">&#10094;</a-->
   <!--a class="next" onclick="plusSlides(1)">&#10095;</a-->
-</div>
+<!-- </div> -->
 
 <!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
+<!-- <div style="text-align:center"> -->
+  <!-- <span class="dot" onclick="currentSlide(1)"></span> -->
+  <!-- <span class="dot" onclick="currentSlide(2)"></span> -->
+  <!-- <span class="dot" onclick="currentSlide(3)"></span> -->
+<!-- </div> -->
 
 # Workshop Report
 
-<!-- <object data="2019_nsf_lf_ci_report.pdf" width="100%" height="100%" type='application/pdf'/> -->
 <embed src="2019_nsf_lf_ci_report.pdf" width="100%" height="940" />
+<div style="text-align: right; color: #666; font-size: 0.8em">
+  <p>DOI: <a href="https://dx.doi.org/10.25549/0ZBF-8M77" target="_blank">10.25549/0ZBF-8M77</a></p>
+</div>
 
 # Workshop Overview
 
